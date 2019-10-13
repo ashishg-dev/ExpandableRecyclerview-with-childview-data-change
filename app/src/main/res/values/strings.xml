@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExpandableRecyclerview</string>
+    <string name="activity_main">Actors</string>
+</resources>
