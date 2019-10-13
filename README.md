@@ -9,5 +9,5 @@ Working with Parent-Child Recyclerview and update child view details.
 4 - InputDialog.<br/>
 
 <video src="https://github.com/ashishgupta191193/ExpandableRecyclerview-with-childview-data-change/blob/master/demo.mp4" width="170" height="85" controls>
-<p>If you are reading this, it is because your browser does not support the HTML5 video element.</p>
+<p>If you are reading this, it is because your browser does not support the HTML5 video element. video link <a href="https://github.com/ashishgupta191193/ExpandableRecyclerview-with-childview-data-change/blob/master/demo.mp4">Click Here</a></p>
 </video>
